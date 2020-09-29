@@ -48,6 +48,12 @@ imagePaths = list(paths.list_images(args["dataset"]))
 data = []
 labels = []
 
+#testing something here
+
+#alsohere
+
+#finalcommit
+
 # loop over the image paths
 for imagePath in imagePaths:
 	# extract the class label from the filename
